@@ -27,7 +27,7 @@
 </td>
 <td>
 <h1>Sample Application JSP Page</h1>
-This is the  of a JSP page that is part of the Hello, World
+This is the output of a JSP page (feature) that is part of the Hello, World
 application.
 </td>
 </tr>
